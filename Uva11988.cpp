@@ -1,5 +1,4 @@
-# 链表的使用
-```
+// 链表的使用
 #include<cstdio>
 #include<cstring>
 
@@ -28,4 +27,4 @@ int main(){
     }
     return 0;
 }
-```
+
